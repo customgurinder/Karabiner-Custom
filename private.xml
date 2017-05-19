@@ -8,33 +8,25 @@
 		<item>
 		    <name>Fn+F5 to F5</name>
 		    <identifier>private.fn+f5_to_f5</identifier>
-		    <autogen>
-			  __KeyToKey__ KeyCode::F5, ModifierFlag::FN, KeyCode::F5
-			</autogen>
+		    <autogen>__KeyToKey__ KeyCode::F5, ModifierFlag::FN, KeyCode::F5</autogen>
 		</item>
 
 		<item>
 		    <name>Fn+F6 to F6</name>
 		    <identifier>private.fn+f6_to_f6</identifier>
-		    <autogen>
-			  __KeyToKey__ KeyCode::F6, ModifierFlag::FN, KeyCode::F6
-			</autogen>
+		    <autogen>__KeyToKey__ KeyCode::F6, ModifierFlag::FN, KeyCode::F6</autogen>
 		</item>
 
 		<item>
 		    <name>Fn+F7 to F7</name>
 		    <identifier>private.fn+F7_to_F7</identifier>
-		    <autogen>
-			  __KeyToKey__ KeyCode::F7, ModifierFlag::FN, KeyCode::F7
-			</autogen>
+		    <autogen>__KeyToKey__ KeyCode::F7, ModifierFlag::FN, KeyCode::F7</autogen>
 		</item>
 
 		<item>
 		    <name>Fn+F8 to F8</name>
 		    <identifier>private.fn+F8_to_F8</identifier>
-		    <autogen>
-			  __KeyToKey__ KeyCode::F8, ModifierFlag::FN, KeyCode::F8
-			</autogen>
+		    <autogen>__KeyToKey__ KeyCode::F8, ModifierFlag::FN, KeyCode::F8</autogen>
 		</item>
 	</item>
 
